@@ -70,11 +70,15 @@ screenshot for generate HTML webpages
 
 ## Deployed-link
 
-![Employee Tracker](at https://github.com/junghan84/SQL-Employee-Tracker) 
+![Text Editor](at https://github.com/junghan84/-Object-Relational-Mapping-ORM-) 
+
+## Deployed-herok-link
+
+![Text Editor](at https://warm-bayou-87357.herokuapp.com/)
 
 ## Repo-link 
 
-![Employee Tracker](at https://junghan84.github.io/SQL-Employee-Tracker/) 
+![Text Editor](at https://junghan84.github.io/-Object-Relational-Mapping-ORM-/) 
 
 ## Video
 <img src="Assets/employee-tracker.webm"/>
